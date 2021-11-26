@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Food Companion",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

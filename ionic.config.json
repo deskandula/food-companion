@@ -1,0 +1,8 @@
+{
+  "name": "Food Companion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2629c84e"
+}
