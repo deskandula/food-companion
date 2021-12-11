@@ -1,7 +1,7 @@
 # hello, world!
 👩🏽‍💻 My name is Destiny Frett and I am a technology startup founder from St. Thomas, US Virgin Islands. 
 
-🍎 Food Companion is a digital solution to food waste and inaccessibility.
+🍎 Food Companion is a an early-stage startup committed to eliminating food waste and inaccessibility.
 
 🇦🇺 I initially created it as a passion project after being inspired by a similar project I created for an internship at a soup kitchen while studying abroad in Sydney, AUS 
 
