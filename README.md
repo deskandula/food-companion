@@ -8,4 +8,4 @@
 ⏩ Fast-forward 2 years, we recently completed our first accelerator with Accelerate VI, an accelerator program based out of the US Virgin Islands, and are
 positioning ourselves to revolutionize the possibilities of sustainability and social good on web 3.0. 
 
-🐘🚀 You can see our pitch presentation from Accelerate VI's Demo Day event here: https://lnkd.in/eyTNdKn4.
+🐘🚀 You can see our pitch presentation from Accelerate VI's Demo Day event here: https://lnkd.in/eyTNdKn4 (start @43:18).
